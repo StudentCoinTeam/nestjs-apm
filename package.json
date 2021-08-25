@@ -1,5 +1,5 @@
 {
-  "name": "@StudentCoin/elastic-apm-nest",
+  "name": "@student-coin/elastic-apm-nest",
   "version": "0.0.8",
   "description": "Elastic APM for NestJS",
   "author": "Krzysztof Szostak",
