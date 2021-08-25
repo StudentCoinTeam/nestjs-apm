@@ -2,7 +2,7 @@
 [NestJS](https://github.com/nestjs/nest) Elastic APM library.
 
 ## Installation
-`npm i elastic-apm-nest --save`
+`npm i @student-coin/elastic-apm-nest --save`
 
 ## Usage
 To your `tsconfig.json` add following lines:
