@@ -1,9 +1,9 @@
 {
-  "name": "elastic-apm-nest",
+  "name": "stc-elastic-apm-nest",
   "version": "0.0.7",
   "description": "Elastic APM for NestJS",
   "author": "Krzysztof Szostak",
-  "homepage": "https://github.com/hejkerooo/nestjs-apm",
+  "homepage": "https://github.com/StudentCoinTeam/nestjs-apm",
   "scripts": {
     "commit": "git-cz",
     "test": "jest",
