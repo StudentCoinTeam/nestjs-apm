@@ -4,7 +4,11 @@
   "description": "Elastic APM for NestJS",
   "author": "Krzysztof Szostak",
   "maintainers": ["Grzegorz Uriasz"],
-  "homepage": "https://github.com/StudentCoinTeam/nestjs-apm",
+  "homepage": "https://github.com/student-coin/nestjs-apm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/student-coin/nestjs-apm.git"
+  },
   "scripts": {
     "commit": "git-cz",
     "test": "jest",
